@@ -98,6 +98,10 @@ class AboutMe extends Developer {
   <li>✉️ Connect with me on Telegram: <a href="https://t.me/spxd007">丂𝙋⚡乂𝘿</a></li>
 </ul>
 
+<hr />
+
+<h2>📈 GitHub Activity Overview</h2>
+
 <div align="center">
   <a href="https://github.com/SP-XD">
     <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%" />
@@ -112,6 +116,7 @@ class AboutMe extends Developer {
   “Life is like riding a bicycle. To keep your balance you must keep moving.” <br />
   <strong>– Albert Einstein</strong>
 </blockquote>
+
 
 
 
