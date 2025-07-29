@@ -1,10 +1,13 @@
 <div align="center" width="50%">
 
+  <h1>Welcome, I'm <strong>Kheir Eddine BELLAHCENE</strong></h1>
+  <p>🎵 Music lover & ☕ Coffee addict, passionate about robotics and perception</p>
+
   <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="60%" /> <br />
   <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace" width="40%" /><br />
 
   <details>
-    <summary><strong>Busy coding & Vibing to :</strong></summary>
+    <summary><strong>Busy coding & vibing to:</strong></summary>
     <p>
       <a href="https://open.spotify.com/user/somnathpaul" target="_blank" rel="noopener noreferrer">
         <img src="https://spotify-readme.sp-xd.vercel.app/api/spotify" alt="Spotify Now Playing" />
@@ -43,7 +46,7 @@
 
 <hr />
 
-<h2>🚀 Tools & Tech I Use</h2>
+<h2>🚀 Tools & Technologies I Use</h2>
 
 <p>
   <img src="https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen" alt="Python" />
@@ -51,6 +54,7 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" alt="Rust" />
   <img src="https://img.shields.io/badge/ROS2-3C3C3D?style=flat&logo=ros&logoColor=white" alt="ROS2" />
+  <img src="https://img.shields.io/badge/Autoware-4D7CFF?style=flat&logo=autoware&logoColor=white" alt="Autoware" />
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VSCode" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
@@ -61,33 +65,37 @@
 </p>
 
 <pre style="background:#282c34; color:#61dafb; padding:10px; border-radius:5px;">
-// My tech stack and expertise
+// Tech stack and expertise
 class AboutMe extends Developer {
   const skills = {
     "ProgrammingLanguages": { "Python", "C", "C++", "Rust (learner)" },
-    "RoboticsTools": { "ROS2", "Carla Simulator", "Gazebo", "RViz" },
+    "RoboticsTools": { "ROS2", "Autoware", "Carla Simulator", "Gazebo", "RViz" },
     "DevTools": { "VSCode", "Docker", "Git", "GitHub" },
     "Expertise": {
-      "ControlSystems", 
-      "Robotics", 
+      "ControlSystems",
+      "Robotics",
       "VehicleDynamics",
       "VisionCalibration",
       "StereoVision",
       "VisualOdometry",
       "SensorFusion": ["LinearKalmanFilter", "EKF", "UKF"],
       "MachineLearning",
-      "Mathematics"
+      "Mathematics",
+      "ArtificialIntelligence",
+      "AutonomousVehicles",
+      "Perception"
     }
   };
 }
 </pre>
 
 <ul>
-  <li>🚧 Currently diving deep into <strong>Rust & ROS2</strong>.</li>
-  <li>🤖 Passionate about <strong>robotics, vehicle dynamics, sensor fusion, and computer vision</strong>.</li>
-  <li>🔍 Working on projects involving <strong>visual odometry, stereo vision & advanced Kalman filters</strong> to track vehicles in 2D.</li>
-  <li>📚 Always hungry for knowledge, especially <strong>machine learning and mathematics</strong>.</li>
-  <li>✉️ Catch me on Telegram: <a href="https://t.me/spxd007">丂𝙋⚡乂𝘿</a></li>
+  <li>🚧 Deeply engaged with <strong>ROS2, sensor fusion, and perception</strong>.</li>
+  <li>🤖 Passionate about <strong>artificial intelligence</strong> and <strong>computer vision</strong>.</li>
+  <li>🔍 Developing projects focused on <strong>advanced Kalman filtering and sensor fusion in C++</strong>.</li>
+  <li>📚 Constantly learning, especially in <strong>AI</strong> and <strong>autonomous vehicle technologies</strong>.</li>
+  <li>🎵 Music lover & ☕ coffee addict — always coding with great tunes and caffeine!</li>
+  <li>✉️ Connect with me on Telegram: <a href="https://t.me/spxd007">丂𝙋⚡乂𝘿</a></li>
 </ul>
 
 <div align="center">
@@ -104,5 +112,6 @@ class AboutMe extends Developer {
   “Life is like riding a bicycle. To keep your balance you must keep moving.” <br />
   <strong>– Albert Einstein</strong>
 </blockquote>
+
 
 
