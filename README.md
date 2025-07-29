@@ -45,9 +45,9 @@
 
 ## 🧠 Interests
 
-- 📷 Stereo vision, depth estimation, and disparity maps  
-- 🧮 Linear Kalman Filter, EKF, and UKF tracking with sensor fusion  
 - 🚗 Autonomous perception systems (LiDAR + camera)  
+- 📷 Stereo vision, depth estimation, and disparity maps  
+- 🧮 Linear Kalman Filter, EKF, and UKF Filtering and  sensor fusion  
 - 🧪 Simulation environments using CARLA and Gazebo  
 - 📦 Building reproducible pipelines with Docker  
 
