@@ -12,9 +12,8 @@
   </p>
 </details>
 
-![Profile Views](https://komarev.com/ghpvc/?username=SP-XD&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSP-XD&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-[![Telegram](https://img.shields.io/badge/SP--XD-grey?style=flat&logo=telegram)](https://t.me/spxd007)
+![Profile Views](https://komarev.com/ghpvc/?username=kheireddine-bellahcene&style=flat&color=orange&label=PROFILE+VIEWS)
+[![Telegram](https://img.shields.io/badge/Telegram-Contact-blue?style=flat&logo=telegram)](https://t.me/spxd007)
 
 </div>
 
@@ -22,7 +21,7 @@
 
 ## 👨‍💻 About Me
 
-🎓 Master’s degree in *Machine Perception* — University of Évry, Paris-Saclay  
+🎓 Master's degree in *Machine Perception* — University of Évry, Paris-Saclay  
 🧠 Computer Vision Engineer | Robotics | AI Systems  
 🛠️ Passionate about stereo vision, camera calibration, autonomous driving tech & embedded AI  
 📍 Linux Enthusiast | ROS2 Developer | Open Source Supporter  
@@ -36,55 +35,28 @@
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat&logo=ros&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat&logo=opencv&logoColor=white)
 ![Gazebo](https://img.shields.io/badge/Gazebo-FFFFFF?style=flat&logo=Gazebo&logoColor=black)
-![CARLA](https://img.shields.io/badge/CARLA-000000?style=flat&logo=car&logoColor=white)
-![Autoware](https://img.shields.io/badge/Autoware-A6A6A6?style=flat)
-![Kalman Filter](https://img.shields.io/badge/Kalman_Filter-E6AF2E?style=flat)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust%20Learner-000000?style=flat&logo=rust&logoColor=white)
 
 ---
 
 ## 🧠 Interests
 
-- 🚗 Autonomous Vehicle Perception (stereo, LiDAR fusion)
-- 🧮 Kalman, EKF, UKF tracking algorithms
-- 🎯 Real-time object detection and SLAM
-- 🧪 Simulation with CARLA & Gazebo
-- 📦 Building reproducible pipelines using Docker
-
----
-
-## 📂 Featured Projects
-
-| Project | Description |
-|--------|-------------|
-| 🛣️ **Autoware-Perception-Stack** | Vision-based perception module for AVs using ROS2, OpenCV, Autoware |
-| 📷 **Stereo-Camera-System** | Stereo rectification, disparity map generation, depth estimation |
-| 🧭 **Kalman-Filter-Tracker** | Object tracking using Linear, EKF and UKF (C++ / Python) |
-| 🐳 **ROS2-Docker-Template** | Preconfigured ROS2 + Gazebo + OpenCV environment for development |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-  <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-  <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
-</div>
-
-<details>
-  <summary>🔍 More Stats</summary>
-  <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg">
-</details>
+- 📷 Stereo vision, depth estimation, and disparity maps  
+- 🧮 Linear Kalman Filter, EKF, and UKF tracking with sensor fusion  
+- 🚗 Autonomous perception systems (LiDAR + camera)  
+- 🧪 Simulation environments using CARLA and Gazebo  
+- 📦 Building reproducible pipelines with Docker  
 
 ---
 
 ## 📬 Get In Touch
 
-- 📫 Email: yourname@example.com  
+- 📧 Email: kheireddine.bellahcene@gmail.com  
+- 📞 Phone: +33 7 48 46 36 47  
 - 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
 - 💬 Telegram: [@spxd007](https://t.me/spxd007)  
 
