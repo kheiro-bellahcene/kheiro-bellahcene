@@ -100,7 +100,7 @@ class AboutMe extends Developer {
 
 <hr />
 
-<h2>📈 GitHub Activity Overview</h2>
+<h2>📈 GitHub Stats</h2>
 
 <div align="center">
   <a href="https://github.com/SP-XD">
