@@ -103,7 +103,11 @@ class AboutMe extends Developer {
   <li>🔍 Developing projects focused on <strong>advanced Kalman filtering and sensor fusion in C++</strong>.</li>
   <li>📚 Constantly learning, especially in <strong>AI</strong> and <strong>autonomous vehicle technologies</strong>.</li>
   <li>🎵 Music lover & ☕ coffee addict — always coding with great tunes and caffeine!</li>
+  <!--
   <li>✉️ Connect with me on Telegram: <a href="https://t.me/spxd007">丂𝙋⚡乂𝘿</a></li>
+  -->
+ <li>💬 <em>Feel free to reach out anytime!</em> Connect with me on WhatsApp: <a href="https://wa.me/33748463647" target="_blank" rel="noopener noreferrer">Kheiro</a> ☕ 🎵</li>
+
 </ul>
 
 <hr />
