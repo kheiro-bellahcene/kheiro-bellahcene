@@ -41,51 +41,53 @@
   </li>
 </ul>
 
-<blockquote style="font-style: italic; border-left: 4px solid #f39c12; padding-left: 10px; color: #555;">
-  “Life is like riding a bicycle. To keep your balance you must keep moving.” <br />
-  <strong>– Albert Einstein</strong>
-</blockquote>
-
 <hr />
 
-<h2>🚀 Tools I Use</h2>
+<h2>🚀 Tools & Tech I Use</h2>
 
 <p>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=#61DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/GNU_Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/ROS2-3C3C3D?style=flat&logo=ros&logoColor=white" alt="ROS2" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VSCode" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Carla-2392e4?style=flat&logo=carla&logoColor=white" alt="Carla Simulator" />
+  <img src="https://img.shields.io/badge/Gazebo-3a2e2e?style=flat&logo=gazebo&logoColor=white" alt="Gazebo" />
+  <img src="https://img.shields.io/badge/RViz-5792c4?style=flat&logo=robotics&logoColor=white" alt="RViz" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
 <pre style="background:#282c34; color:#61dafb; padding:10px; border-radius:5px;">
-// tools_I_use organized
-class About extends Me { 
-  const myTools = {  
-    "ProgrammingLanguages" : { "Dart", "Go", "Python", "JavaScript", "Java", "C++" },
-    "OtherLanguages" : { "HTML", "CSS", "Bash", "Json", "Markdown" },
-    "Databases" : { "Firebase", "SQLite" },
-    "Editors" : { "VSCode", "Xcode", "Sublime", "Neovim" },
-    "Platforms" : { "Mac", "GNU/Linux", "Windows" },
-    "OtherTools" : { "Git", "Figma", "Photoshop", "Gimp", "Lightroom" }
+// My tech stack and expertise
+class AboutMe extends Developer {
+  const skills = {
+    "ProgrammingLanguages": { "Python", "C", "C++", "Rust (learner)" },
+    "RoboticsTools": { "ROS2", "Carla Simulator", "Gazebo", "RViz" },
+    "DevTools": { "VSCode", "Docker", "Git", "GitHub" },
+    "Expertise": {
+      "ControlSystems", 
+      "Robotics", 
+      "VehicleDynamics",
+      "VisionCalibration",
+      "StereoVision",
+      "VisualOdometry",
+      "SensorFusion": ["LinearKalmanFilter", "EKF", "UKF"],
+      "MachineLearning",
+      "Mathematics"
+    }
   };
 }
 </pre>
 
 <ul>
-  <li>🚧 I’m currently learning <strong>Flutter & Web Development</strong>.</li>
-  <li>🐧 I like exploring <strong>GNU/Linux</strong> environments.</li>
-  <li>💬 Ask me about <strong>PC building, Movies, or anything tech</strong>.</li>
-  <li>✉️ Find me on Telegram: <a href="https://t.me/spxd007">丂𝙋⚡乂𝘿</a></li>
-  <li>⚡ Fun fact: Banging your head against a wall for one hour burns <strong>150 calories</strong>.</li>
+  <li>🚧 Currently diving deep into <strong>Rust & ROS2</strong>.</li>
+  <li>🤖 Passionate about <strong>robotics, vehicle dynamics, sensor fusion, and computer vision</strong>.</li>
+  <li>🔍 Working on projects involving <strong>visual odometry, stereo vision & advanced Kalman filters</strong> to track vehicles in 2D.</li>
+  <li>📚 Always hungry for knowledge, especially <strong>machine learning and mathematics</strong>.</li>
+  <li>✉️ Catch me on Telegram: <a href="https://t.me/spxd007">丂𝙋⚡乂𝘿</a></li>
 </ul>
 
 <div align="center">
@@ -94,21 +96,13 @@ class About extends Me {
     <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%" />
     <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%" />
   </a>
-
-  <details>
-    <summary>More stats</summary>
-    <img align="center" src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" />
-  </details>
-
-  <hr />
-
-  <p>Code Cycle</p>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!" />
 </div>
 
+<hr />
+
+<blockquote style="font-style: italic; border-left: 4px solid #f39c12; padding-left: 10px; color: #555;">
+  “Life is like riding a bicycle. To keep your balance you must keep moving.” <br />
+  <strong>– Albert Einstein</strong>
+</blockquote>
 
 
