@@ -15,7 +15,7 @@
       </a>
     </p>
   </details>
-
+<!--
   <p>
     <img src="https://komarev.com/ghpvc/?username=SP-XD&style=flat&color=orange&label=PROFILE+VIEWS" alt="Profile Views" />
     &nbsp;&nbsp;
@@ -27,7 +27,7 @@
       <img src="https://img.shields.io/badge/SP--XD-grey?style=flat&logo=telegram" alt="Telegram" />
     </a>
   </p>
-
+-->
 </div>
 
 <hr />
