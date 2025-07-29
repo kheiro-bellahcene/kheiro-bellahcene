@@ -52,7 +52,6 @@
   <img src="https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen" alt="Python" />
   <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" alt="Rust" />
   <img src="https://img.shields.io/badge/Rust--Learner-6e5494?style=flat&logo=rust&logoColor=white" alt="Rust Learner" />
   <img src="https://img.shields.io/badge/ROS2-3C3C3D?style=flat&logo=ros&logoColor=white" alt="ROS2" />
   <img src="https://img.shields.io/badge/Autoware-4D7CFF?style=flat&logo=autoware&logoColor=white" alt="Autoware" />
@@ -63,9 +62,9 @@
   <img src="https://img.shields.io/badge/Gazebo-3a2e2e?style=flat&logo=gazebo&logoColor=white" alt="Gazebo" />
   <img src="https://img.shields.io/badge/RViz-5792c4?style=flat&logo=robotics&logoColor=white" alt="RViz" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Matlab-0076A8?style=flat&logo=mathworks&logoColor=white" alt="Matlab" />
-  <img src="https://img.shields.io/badge/Simulink-2D2D2D?style=flat&logo=mathworks&logoColor=white" alt="Simulink" />
+  <img src="https://img.shields.io/badge/Matlab--Simulink-0076A8?style=flat&logo=mathworks&logoColor=white" alt="Matlab Simulink" />
 </p>
+
 
 
 <pre style="background:#282c34; color:#61dafb; padding:10px; border-radius:5px;">
