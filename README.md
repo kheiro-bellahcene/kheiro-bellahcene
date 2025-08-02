@@ -87,6 +87,7 @@ class AboutMe extends Developer {
       "ControlSystems",
       "Robotics",
       "VehicleDynamics",
+      "DroneDynamics",
       "VisionCalibration",
       "StereoVision",
       "VisualOdometry",
