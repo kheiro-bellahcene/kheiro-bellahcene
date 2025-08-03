@@ -1,37 +1,31 @@
 <div align="center" width="50%">
 
- 
-<!--
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="60%" /> <br />
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace" width="40%" /><br />
--->
  <h1>👋 Hi, I'm <strong>Kheir Eddine BELLAHCENE</strong></h1>
-  <p>🎵 Music lover & ☕ Coffee addict, passionate about robotics and perception</p>
-  <details>
-    <summary><strong>Busy coding & vibing to:</strong></summary>
-    <p>
-      <a href="https://open.spotify.com/user/somnathpaul" target="_blank" rel="noopener noreferrer">
-        <img src="https://spotify-readme.sp-xd.vercel.app/api/spotify" alt="Spotify Now Playing" />
-      </a>
-    </p>
-  </details>
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=kheiro-bellahcene&style=flat&color=orange&label=PROFILE+VIEWS" alt="Profile Views" />
-   <!--
-    <img src="https://komarev.com/ghpvc/?username=SP-XD&style=flat&color=orange&label=PROFILE+VIEWS" alt="Profile Views" />
-    &nbsp;&nbsp;
-   -->
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSP-XD&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false" alt="Hits" />
-  </p>
+ <p>🎵 Music lover & ☕ Coffee addict, passionate about robotics and perception</p>
 
-<p>
-  <a href="https://wa.me/33748463647" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
-</p>
+ <details>
+   <summary><strong>Busy coding & vibing to:</strong></summary>
+   <p>
+     <a href="https://open.spotify.com/user/somnathpaul" target="_blank" rel="noopener noreferrer">
+       <img src="https://spotify-readme.sp-xd.vercel.app/api/spotify" alt="Spotify Now Playing" />
+     </a>
+   </p>
+ </details>
 
+ <p>
+   <img src="https://komarev.com/ghpvc/?username=kheiro-bellahcene&style=flat&color=orange&label=PROFILE+VIEWS" alt="Profile Views" />
+   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSP-XD&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false" alt="Hits" />
+ </p>
 
+ <p>
+   <a href="https://wa.me/33748463647" target="_blank" rel="noopener noreferrer">
+     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+   </a>
 
+   <a href="mailto:kheireddine.bellahcene@gmail.com" target="_blank" rel="noopener noreferrer">
+     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+   </a>
+ </p>
 
 </div>
 
@@ -58,9 +52,6 @@
   <img src="https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen" alt="Python" />
   <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" />
- <!--
-  <img src="https://img.shields.io/badge/Rust--Learner-6e5494?style=flat&logo=rust&logoColor=white" alt="Rust Learner" />
- -->
   <img src="https://img.shields.io/badge/ROS2-3C3C3D?style=flat&logo=ros&logoColor=white" alt="ROS2" />
   <img src="https://img.shields.io/badge/Autoware-4D7CFF?style=flat&logo=autoware&logoColor=white" alt="Autoware" />
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VSCode" />
@@ -106,11 +97,14 @@ class AboutMe extends Developer {
   <li>🔍 Developing projects focused on <strong>advanced Kalman filtering and sensor fusion in C++</strong>.</li>
   <li>📚 Constantly learning, especially in <strong>AI</strong> and <strong>autonomous vehicle technologies</strong>.</li>
   <li>🎵 Music lover & ☕ coffee addict — always coding with great tunes and caffeine!</li>
-  <!--
-  <li>✉️ Connect with me on Telegram: <a href="https://t.me/spxd007">丂𝙋⚡乂𝘿</a></li>
-  -->
- <li>💬 <em>Feel free to reach out anytime!</em> Connect with me on WhatsApp: <a href="https://wa.me/33748463647" target="_blank" rel="noopener noreferrer">Kheiro</a> ☕ 🎵</li>
-
+  <li>💬 <em>Feel free to reach out anytime!</em> Connect with me on WhatsApp: 
+    <a href="https://wa.me/33748463647" target="_blank" rel="noopener noreferrer">Kheiro</a> ☕ 🎵
+  </li>
+  <li>📧 Email me: 
+    <a href="mailto:kheireddine.bellahcene@gmail.com" target="_blank" rel="noopener noreferrer">
+      kheireddine.bellahcene@gmail.com
+    </a>
+  </li>
 </ul>
 
 <hr />
