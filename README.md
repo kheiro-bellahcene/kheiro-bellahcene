@@ -16,19 +16,18 @@
    <img src="https://komarev.com/ghpvc/?username=kheiro-bellahcene&style=flat&color=orange&label=PROFILE+VIEWS" alt="Profile Views" />
    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSP-XD&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false" alt="Hits" />
  </p>
-
- <p>
-   <a href="https://wa.me/33748463647" target="_blank" rel="noopener noreferrer">
-     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-   </a>
-
-   <a href="mailto:kheireddine.bellahcene@gmail.com" target="_blank" rel="noopener noreferrer">
-     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
-   </a>
-
-   <a href="https://www.linkedin.com/in/kheir-eddine-bellahcene/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<p>
+  <a href="https://wa.me/33748463647" target="_blank" rel="noopener noreferrer" style="margin-right: 8px;">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
+
+  <a href="mailto:kheireddine.bellahcene@gmail.com" target="_blank" rel="noopener noreferrer" style="margin-right: 8px;">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/kheir-eddine-bellahcene/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a> 
  </p>
 
 </div>
