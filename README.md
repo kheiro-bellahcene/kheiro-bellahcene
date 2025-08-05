@@ -2,9 +2,9 @@
 
  <h1>👋 Hi, I'm <strong>Kheir Eddine BELLAHCENE</strong></h1>
  <img 
-    src="https://raw.githubusercontent.com/kheiro-bellahcene/kheiro-bellahcene/refs/heads/main/assets/ezgif.com-optimize.gif" 
+    src="https://github.com/kheiro-bellahcene/kheiro-bellahcene/blob/main/assets/Kheir_Eddine%20BELLAHCENE_1.png" 
     alt="Me coding" 
-    width="350" 
+    width="650" 
     style="border-radius: 10px; margin: 20px 0;" 
   />
  <p>🎵 Music lover & ☕ Coffee addict, passionate about robotics and perception</p>
