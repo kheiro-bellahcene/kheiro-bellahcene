@@ -4,7 +4,7 @@
  <img 
     src="https://github.com/kheiro-bellahcene/kheiro-bellahcene/blob/main/assets/Kheir_Eddine%20BELLAHCENE_1.png" 
     alt="Me coding" 
-    width="650" 
+    width="550" 
     style="border-radius: 10px; margin: 20px 0;" 
   />
  <p>🎵 Music lover & ☕ Coffee addict, passionate about robotics and perception</p>
