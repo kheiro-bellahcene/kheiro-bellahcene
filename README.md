@@ -45,7 +45,7 @@
 <ul>
   <li>
     <img src="https://flagcdn.com/fr.svg" width="24" alt="France" />
-    <strong>Master's Degree in Machine Perception</strong> – University of Évry, Paris-Saclay, France
+    <strong>Master's Degree in Perception of Mobile Autonomous Systems </strong> – University of Évry, Paris-Saclay, France
   </li>
   <li>
     <img src="https://flagcdn.com/dz.svg" width="24" alt="Algeria" />
