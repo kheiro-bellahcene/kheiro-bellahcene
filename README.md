@@ -1,12 +1,17 @@
 <div align="center" width="50%">
-
- <h1>👋 Hi, I'm <strong>Kheir Eddine BELLAHCENE</strong></h1>
- <img 
+  <img 
     src="https://github.com/kheiro-bellahcene/kheiro-bellahcene/blob/main/assets/Kheir_Eddine%20BELLAHCENE_1.png" 
     alt="Me coding" 
-    width="500" 
-    style="border-radius: 10px; margin: 20px 0;" 
+    width="500"
   />
+
+  <br><br>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+     <img src="https://readme-typing-svg.demolab.com?color=000000&font=Fira+Code&size=28&pause=1500&center=true&width=600&lines=Hi%2C+I'm+Kheir+Eddine+BELLAHCENE;Computer+Vision+Engineer;Robotics+%26+Perception+Enthusiast;Welcome+to+my+GitHub!" alt="Typing SVG" />
+
+  </a>
+</p>
  <p>🎵 Music lover & ☕ Coffee addict, passionate about robotics and perception</p>
 
  <details>
