@@ -14,7 +14,7 @@
 
   </a>
 </p>
- <p>🎵 Music lover & ☕ Coffee addict, passionate about robotics and perception</p>
+ <p>🎵 Music lover & ☕ Coffee addict, Passionate about Robotics and Perception</p>
 
  <details>
    <summary><strong>Busy coding & vibing to:</strong></summary>
