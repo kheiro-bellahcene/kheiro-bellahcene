@@ -87,25 +87,21 @@
 
 <pre style="background:#282c34; color:#61dafb; padding:10px; border-radius:5px;">
 // Tech stack and expertise
-class AboutMe extends Developer {
+class AboutMe extends ComputerVisionEngineer {
   const skills = {
-    "ProgrammingLanguages": { "Python", "C", "C++", "Rust (learner)" },
-    "RoboticsTools": { "ROS2", "Autoware", "Carla Simulator", "Gazebo", "RViz" },
-    "DevTools": { "VSCode", "Docker", "Git", "GitHub" },
+    "ProgrammingLanguages": { "Python", "C", "C++"},
+    "RoboticsTools": { "ROS2", "Carla Simulator", "Gazebo", "RViz" },
+    "DevTools": { "VSCode", "Git", "GitHub" },
     "Expertise": {
+      "Perception",
       "ControlSystems",
+      "ComputerVision,
       "Robotics",
       "VehicleDynamics",
       "DroneDynamics",
       "VisionCalibration",
-      "StereoVision",
       "VisualOdometry",
-      "SensorFusion": ["LinearKalmanFilter", "EKF", "UKF"],
-      "MachineLearning",
-      "Mathematics",
-      "ArtificialIntelligence",
-      "AutonomousVehicles",
-      "Perception"
+      "SensorFusion": ["LinearKalmanFilter", "EKF", "UKF"]  
     }
   };
 }
