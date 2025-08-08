@@ -108,7 +108,7 @@ class AboutMe extends ComputerVisionEngineer {
 </pre>
 
 <ul>
-  <li>🚧 Deeply engaged with <strong>ROS2, sensor fusion, and perception</strong>.</li>
+  <li>🚧 Deeply engaged with <strong>ROS2, sensor fusion, and robotics perception</strong>.</li>
   <li>🤖 Passionate about <strong>artificial intelligence</strong> and <strong>computer vision</strong>.</li>
   <li>🔍 Developing projects focused on <strong>advanced Kalman filtering and sensor fusion in C++</strong>.</li>
   <li>📚 Constantly learning, especially in <strong>AI</strong> and <strong>autonomous vehicle technologies</strong>.</li>
