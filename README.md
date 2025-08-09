@@ -78,6 +78,7 @@
   -->
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white" alt="GitLab" />
   <img src="https://img.shields.io/badge/Carla-2392e4?style=flat&logo=carla&logoColor=white" alt="Carla Simulator" />
   <img src="https://img.shields.io/badge/Gazebo-3a2e2e?style=flat&logo=gazebo&logoColor=white" alt="Gazebo" />
   <img src="https://img.shields.io/badge/RViz-5792c4?style=flat&logo=robotics&logoColor=white" alt="RViz" />
