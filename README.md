@@ -87,7 +87,7 @@
 
 ## 📌 About Me
 
-- 🚧 Deeply engaged with **ROS2, sensor fusion, and robotics perception**  
+- 🚧 I’m deeply involved in **robotics perception**, **sensor fusion**, and **ROS2 development**.  
 - 🤖 Passionate about **artificial intelligence** and **computer vision**  
 - 🔍 Focused on **advanced Kalman filtering and sensor fusion in C++**  
 - 📚 Constantly learning in **AI** and **autonomous vehicle technologies**  
