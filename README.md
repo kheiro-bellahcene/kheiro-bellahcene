@@ -78,7 +78,6 @@
 - **Expertise Areas:**  
   - Computer Vision
   - Robotics  
-  - Control Systems  
   - Dynamics & Control for Ground and Aerial Vehicles    
   - Sensor Fusion: Linear Kalman Filter, Extended Kalman Filter, Unscented Kalman Filter  
 
