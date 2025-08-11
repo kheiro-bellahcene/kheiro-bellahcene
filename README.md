@@ -66,7 +66,9 @@
   <img src="https://img.shields.io/badge/RViz-5792c4?style=flat&logo=robotics&logoColor=white" alt="RViz" />
   <img src="https://img.shields.io/badge/Matlab-0076A8?style=flat&logo=mathworks&logoColor=white" alt="Matlab" />
   <img src="https://img.shields.io/badge/Simulink-D91E18?style=flat&logo=simulink&logoColor=white" alt="Simulink" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch" />
 </div>
+
 
 ---
 
