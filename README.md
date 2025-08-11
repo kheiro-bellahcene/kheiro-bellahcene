@@ -44,10 +44,10 @@
 
 ---
 
-## 🎓 Academic Background
+## 🎓 Academic Background 
+- 🇫🇷 **Master's Degree in Perception of Mobile Autonomous Systems** – University of Évry Paris-Saclay, France  
+- 🇩🇿 **Master's Degree in Control Systems** – University of Tlemcen, Algeria
 
-- 🇫🇷 **Master's Degree in Perception of Mobile Autonomous Systems** – University of Évry, Paris-Saclay, France  
-- 🇩🇿 **Master's Degree in Control Systems** – University of Tlemcen, Algeria  
 
 ---
 
