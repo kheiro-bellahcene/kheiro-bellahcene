@@ -1,10 +1,11 @@
 <div align="center" width="50%">
+  <!--
   <img 
     src="https://github.com/kheiro-bellahcene/kheiro-bellahcene/blob/main/assets/Kheir_Eddine%20BELLAHCENE_1.png" 
     alt="Me coding" 
     width="500"
   />
-
+ -->
   <br><br>
   <p align="center">
     <a href="https://git.io/typing-svg">
