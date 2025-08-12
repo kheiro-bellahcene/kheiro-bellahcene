@@ -45,10 +45,10 @@
 </div>
 
 ---
+## 🎓 Academic Background
+- <img src="https://flagcdn.com/w20/fr.png" width="20"/> **Master's Degree in Perception of Mobile Autonomous Systems** – University of Évry Paris-Saclay, France  
+- <img src="https://flagcdn.com/w20/dz.png" width="20"/> **Master's Degree in Control Systems** – University of Tlemcen, Algeria
 
-## 🎓 Academic Background 
-- 🇫🇷 **Master's Degree in Perception of Mobile Autonomous Systems** – University of Évry Paris-Saclay, France  
-- 🇩🇿 **Master's Degree in Control Systems** – University of Tlemcen, Algeria
 
 
 ---
