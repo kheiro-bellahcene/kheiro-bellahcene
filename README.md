@@ -70,8 +70,10 @@
   <img src="https://img.shields.io/badge/Matlab-0076A8?style=flat&logo=mathworks&logoColor=white" alt="Matlab" />
   <img src="https://img.shields.io/badge/Simulink-D91E18?style=flat&logo=simulink&logoColor=white" alt="Simulink" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/OpenCV-ADD8E6?style=flat&logo=opencv&logoColor=white" alt="OpenCV" /><br>
+  <img src="https://img.shields.io/badge/OpenCV-ADD8E6?style=flat&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white" alt="Shell / Bash" />
 </div>
+
 
 ---
 
