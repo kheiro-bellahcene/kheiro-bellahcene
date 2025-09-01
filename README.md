@@ -100,17 +100,16 @@
 - 💬 Connect on [WhatsApp](https://wa.me/33748463647) or email: [kheireddine.bellahcene@gmail.com](mailto:kheireddine.bellahcene@gmail.com)  
 
 ---
-<!--
 ## 📈 GitHub Stats
-
 <div align="center">
-  <a href="https://github.com/SP-XD">
-    <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%" />
-    <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%" />
-    <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%" />
-  </a>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=kheiro-bellahcene&show_icons=true&theme=radical" alt="stats" />
+
 </div>
--->
+
+
+
+
 ---
 
 > “Life is like riding a bicycle. To keep your balance you must keep moving.”  
