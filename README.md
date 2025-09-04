@@ -103,10 +103,13 @@
 ## 📈 GitHub Stats
 <div align="center">
 
+  <!-- Stats globales -->
   <img src="https://github-readme-stats.vercel.app/api?username=kheiro-bellahcene&show_icons=true&theme=radical" alt="stats" />
 
-</div>
+  <!-- Trophées -->
+  <img src="https://github-profile-trophy.vercel.app/?username=kheiro-bellahcene&theme=radical&no-frame=true&row=1&column=6" alt="trophies" />
 
+</div>
 
 
 
