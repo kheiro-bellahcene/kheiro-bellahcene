@@ -9,7 +9,7 @@
   <br><br>
   <p align="center">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?color=000000&font=Verdana&size=28&pause=1500&center=true&width=600&lines=%F0%9F%91%8B+Hi%2C+I'm+Kheir+Eddine+BELLAHCENE;Computer+Vision+Engineer;Passionate+about+Robotics+%26+Perception;Welcome+to+my+GitHub!" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?color=000000&font=Verdana&size=28&pause=1500&center=true&width=600&lines=%F0%9F%91%8B+Hi%2C+I'm+Kheir+Eddine+BELLAHCENE;Computer+Vision+&+Robotics+Engineer;Passionate+about+Robotics+%26+Perception;Welcome+to+my+GitHub!" alt="Typing SVG" />
     </a>
   </p>
 
